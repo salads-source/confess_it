@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+src/example_package_salad/__init__.py
+src/example_package_salad/main.py
+src/example_package_salad.egg-info/PKG-INFO
+src/example_package_salad.egg-info/SOURCES.txt
+src/example_package_salad.egg-info/dependency_links.txt
+src/example_package_salad.egg-info/top_level.txt

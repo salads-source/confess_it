@@ -1,0 +1,7 @@
+# Exclude environment variable file
+.env
+
+# Exclude virtual environment directory
+venv/
+
+.pypirc
